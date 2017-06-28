@@ -1,5 +1,5 @@
 ---
-title: My first blog
+title: 01-My first blog
 layout: post
 author: tom.bellamy
 permalink: /copy-of--my-first-blog/
