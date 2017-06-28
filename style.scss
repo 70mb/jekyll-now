@@ -25,6 +25,13 @@ body {
   color: $white;
 }
 
+div {
+    width: 300px;
+    border: 25px solid blue;
+    padding: 25px;
+    margin: 25px;
+}
+
 .container {
   margin: 0 auto;
   max-width: 740px;
