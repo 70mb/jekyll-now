@@ -1,5 +1,5 @@
 ---
-title:  My third blog
+title:  03-My third blog
 layout: post
 author: tom.bellamy
 permalink: /-my-third-blog/
