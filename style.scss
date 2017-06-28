@@ -19,7 +19,9 @@ html {
 
 body {
 	background-image: ("https://s-media-cache-ak0.pinimg.com/originals/96/f4/86/96f486a701a402d0e083d4c588a6e544.jpg");
-  font: 18px/1.4 $helvetica;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+   font: 18px/1.4 $helvetica;
   color: $white;
 }
 
